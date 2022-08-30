@@ -2,8 +2,6 @@
 
 In this assignment we'll explore further sequence, map, reduce, scan, and divide and conquer algorithms.
 
-**To make grading easier, please place all written solutions directly in `answers.md`, rather than scanning in handwritten work or editing this file.**
-
 All coding portions should go in `main.py` as usual.
 
 ## Part 1: Searching Unsorted Lists
@@ -25,7 +23,7 @@ additional cases).
 
 **1b. (4pts)** What is the work and span of this algorithm?
 
-**enter answer in `answers.md`**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -157,7 +155,7 @@ Below, we'll solve this problem three different ways, using iterate, scan, and d
 
 **3d. (4pts)** Assume that any `map`s are done in parallel, and that we use the efficient implementation of `scan` from class. What are the recurrences for the Work and Span of this solution? 
 
-**enter answer in `answers.md`**
+**Enter answer in `answers.md`**
 
 .  
 .  
@@ -178,7 +176,7 @@ Below, we'll solve this problem three different ways, using iterate, scan, and d
 
 **3f. (4pts)** Assuming any recursive calls are done in parallel, what are the recurrences for the Work and Span of this solution? What are their Big Oh solutions?
 
-**enter answer in `answers.md`**
+**Enter answer in `answers.md`**
 
 .  
 . 
