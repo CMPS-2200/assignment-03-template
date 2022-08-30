@@ -8,27 +8,23 @@
 Place all written answers from `assignment-03.md` here for easier grading.
 
 
+**1: Searching Unsorted Lists**
+
+- **1b.** Work and span of `isearch` implementation
 
 
-- **1b.**
+- **1d.** Work and span of `rsearch` implementation
 
 
-
-- **1d.**
-
-
-- **1e.**
+- **1e.** Work and span of `rsearch` using `ureduce`
 
 
-- **3b.**
+**3: Parenthesis Matching**
+
+- **3b.** Recurrences for `parens_match_iterative`
 
 
+- **3d.** Recurrences for `parens_match_scan`
 
 
-- **3d.**
-
-
-
-
-
-- **3f.**
+- **3f.** Recurrences for `parens_match_dc_helper`
