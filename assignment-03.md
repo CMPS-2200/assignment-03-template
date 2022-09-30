@@ -83,8 +83,8 @@ To implement this in map-reduce, we will implement our own map and reduce functi
 The map function `doc_index_map` is already complete. E.g.
 
 ```python
->>> doc_index_map('document one is cool is it', 0)
-    [('document', 0), ('one', 0), ('is', 0), ('cool', 0), ('is', 0), ('it', 1)] 
+>>> doc_index_map(('document one is cool is it', 0))
+    [('document', 0), ('one', 0), ('is', 0), ('cool', 0), ('is', 0), ('it', 0)] 
 ```
 
 The reduce function is also implemented, but it has a bug:
