@@ -21,10 +21,10 @@ Place all written answers from `assignment-03.md` here for easier grading.
 
 **3: Parenthesis Matching**
 
-- **3b.** Recurrences for `parens_match_iterative`
+- **3b.** Recurrences and Big-Oh solutions for `parens_match_iterative`
 
 
-- **3d.** Recurrences for `parens_match_scan`
+- **3d.** Work and Span for `parens_match_scan`
 
 
-- **3f.** Recurrences for `parens_match_dc_helper`
+- **3f.** Recurrences and Big-Oh solutions for `parens_match_dc_helper`

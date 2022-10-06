@@ -153,7 +153,7 @@ Below, we'll solve this problem three different ways, using iterate, scan, and d
 
 
 
-**3d. (4pts)** Assume that any `map`s are done in parallel, and that we use the efficient implementation of `scan` from class. What are the recurrences for the Work and Span of this solution? 
+**3d. (4pts)** Assume that any `map`s are done in parallel, and that we use the efficient implementation of `scan` from class. What is the Work and Span of this solution? You don't need to give recurrences, but do state the runtimes of the relevant sequences primitives (e.g, map, scan, reduce) to justify your answer.
 
 **Enter answer in `answers.md`**
 
