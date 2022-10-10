@@ -55,8 +55,8 @@ def ureduce(f, id_, a):
         return a[0]
     else:
         # can call these in parallel
-        return f(reduce(f, id_, a[:len(a)//3]),
-                 reduce(f, id_, a[len(a)//3:]))
+        return f(ureduce(f, id_, a[:len(a)//3]),
+                 ureduce(f, id_, a[len(a)//3:]))
 
 
 
