@@ -2,7 +2,10 @@
 
 In this assignment we'll explore further sequence, map, reduce, scan, and divide and conquer algorithms.
 
-All coding portions should go in `main.py` as usual.
+As with previous assignments, your code implementations will go in `main.py`.
+Please add your written answers to `answers.md` which you can convert to a PDF
+using `convert.sh`. Alternatively, you may scan and upload written answers
+to a file names `answers.pdf`.
 
 ## Part 1: Searching Unsorted Lists
 
